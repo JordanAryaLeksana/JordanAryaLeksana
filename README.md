@@ -3,11 +3,11 @@
 
 **Software Engineer | AI/ML Systems | Backend Engineering**
 
-I'm a software engineer with a background in Engineering Physics at Institut Teknologi Sepuluh Nopember (ITS), Indonesia, focused on building reliable, deployable software and intelligent systems.
+I'm an Engineering Physics student at Institut Teknologi Sepuluh Nopember (ITS), Indonesia, passionate about building software and AI-powered systems that solve real-world problems.
 
-My experience spans **backend development, system integration, and applied machine learning**, including industrial anomaly detection, computer vision, deep learning research, and Retrieval-Augmented Generation (RAG).
+My experience spans backend development, applied machine learning, and system integration, from industrial anomaly detection and deep learning research to building and deploying AI-enabled applications.
 
-I enjoy bridging the gap between **machine learning research and software engineering** — from model development and evaluation to API integration, automated testing, CI/CD, and deployment.
+I'm currently open to Software Engineering, Backend Engineering, and AI/ML Engineering opportunities, where I can contribute, collaborate, and continue growing as an engineer.
 
 ## 🛠️ Technical Skills
 
