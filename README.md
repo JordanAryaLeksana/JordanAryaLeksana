@@ -20,19 +20,19 @@ I enjoy bridging the gap between **machine learning research and software engine
 
 ## 🌐 Socials & Contact
 
-**💼 LinkedIn — Professional Experience & Networking**
+**💼 LinkedIn**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/jordanaryaleksana)
 
-**🌍 Portfolio Website — Projects, Live Demos & AI Assistant**
+**🌍 Portfolio Website**
 
 [![Portfolio](https://img.shields.io/badge/JordanLabs-181717?logo=googlechrome&logoColor=white)](https://jordanlabs.my.id/)
 
-**📧 Email — Professional Inquiries & Collaboration**
+**📧 Email**
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jordanaryaleksana41@gmail.com)
 
-**📸 Instagram — Personal Updates**
+**📸 Instagram**
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/jordanarya._)
 
