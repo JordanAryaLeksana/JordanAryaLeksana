@@ -3,12 +3,6 @@
 
 **Software Engineer | AI/ML Systems | Backend Engineering**
 
-I'm an Engineering Physics student at Institut Teknologi Sepuluh Nopember (ITS), Indonesia, passionate about building software and AI-powered systems that solve real-world problems.
-
-My experience spans backend development, applied machine learning, and system integration, from industrial anomaly detection and deep learning research to building and deploying AI-enabled applications.
-
-I'm currently open to Software Engineering, Backend Engineering, and AI/ML Engineering opportunities, where I can contribute, collaborate, and continue growing as an engineer.
-
 ## 🛠️ Technical Skills
 
 - **Languages:** Python, TypeScript, JavaScript, SQL, Go
